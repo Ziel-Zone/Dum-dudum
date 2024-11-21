@@ -1,0 +1,22 @@
+Tata Cara Menjalankan Aplikasi ( Sistem Informasi Retal Mobil ) 
+Jalankan dahulu XAMPP di PC, versi XAMPP yang dipakai adalah XAMPP Control Panel v3.2.2 kemudian jalankan panduan dibawah ini :
+ 
+1. Ekstrak file RAR " haruman_rentcar "
+2. Buat database di MySQL dengan nama " rental_mobil "
+3. Buka http://localhost/phpmyadmin dan klik database yang telah dibuat dan impor file database : rental_mobil.sql yang berada di folder haruman_rentcar
+4. Kemudian copy semua folder haruman_rentcar yang telah diekstrak dan letakkan ke C:\xampp\htdocs\
+5. Buka aplikasi browser lalu kunjungi http://localhost/haruman_rentcar/
+6. Terdapat pilihan mau Sewa Sekarang, atau pilihan menu yang ada pada side bar 
+8. Di Sistem Informasi Retal Mobil terdapat banyak fitur - fitur aplikasi dan tombol - tombol dengan fungsi masing - masing
+9. Tinggal menggunakan sesuai dengan kebutuhan,
+
+
+=================================================================
+		( Sistem Informasi Retal Mobil )
+
+NAMA	: FAHMI FADILLAH SEPTIANA
+NPM	: 1606110
+KELAS	: INFORMATIKA C 2016
+
+		MATAKULIAH PRAKTIKUM BASIS DATA
+=================================================================
